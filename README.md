@@ -1,0 +1,2 @@
+# Gerrit
+git directory
